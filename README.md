@@ -1,4 +1,4 @@
-# PASSION FOOTWEAR
+# Introduction
 
 Project is about analysing live data of Manufacturing organization.Exploring the production of items and their sales to gather insights on business performance for external stakeholders as well as for internal team operations. 
  
